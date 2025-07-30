@@ -1,14 +1,14 @@
 <h2 align="center">Hi👋 ,I'm Ritesh Patil</h2>
 
 
-- 👯 I’m looking to collaborate on ...
 # -About Me
 I'm Ritesh Patil,A passionate Web Developer skilled in HTML, CSS, JavaScript, and React, with hands-on experience using Firebase, Node.js, Express.js, and MongoDB.
 I have a strong eye for UI/UX principles and enjoy turning ideas into responsive, scalable, and real-world web solutions.
 Notable projects like Firebase Contact App and Foody Zone reflect my ability to build fast, clean, and user-focused interfaces backed by modern technologies.
 
+<br>
+
 # Connect with me
-<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
   <a href="https://www.linkedin.com/in/ritesh-patil-303b12256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,6 +20,7 @@ Notable projects like Firebase Contact App and Foody Zone reflect my ability to 
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<br>
 
 
 ## 🛠️ Tech Stack & Tools

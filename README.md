@@ -10,10 +10,10 @@ Notable projects like Firebase Contact App and Foody Zone reflect my ability to 
 
 # Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ritesh-patil-303b12256/" target="_blank">
+  <a href="https://www.linkedin.com/in/ritesh-patil-303b12256/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:5riteshrp@gmail.com" target="_blank">
+  <a href="mailto:5riteshrp@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/RiteshPatil7097/RiteshPatil7097" target="_blank">
@@ -21,7 +21,7 @@ Notable projects like Firebase Contact App and Foody Zone reflect my ability to 
   </a>
 </p>
 <hr style="border: 1px solid white;">
-<br><br>
+<br>
 
 
 ## 🛠️ Tech Stack & Tools

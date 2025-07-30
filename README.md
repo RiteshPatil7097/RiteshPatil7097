@@ -23,6 +23,12 @@ Notable projects like Firebase Contact App and Foody Zone reflect my ability to 
 <hr style="border: 1px solid white;">
 <br>
 
+## 🚀 Live Projects
+
+- 🔗 [Firebase Contact App](https://firebase-contact-app-cjk0.onrender.com)  
+- 🍽️ [Foody Zone](https://foody-zone-ritesh.vercel.app)  
+
+<br>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -50,6 +56,8 @@ Notable projects like Firebase Contact App and Foody Zone reflect my ability to 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 

@@ -20,7 +20,8 @@ Notable projects like Firebase Contact App and Foody Zone reflect my ability to 
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<br>
+<hr style="border: 1px solid white;">
+<br><br>
 
 
 ## 🛠️ Tech Stack & Tools

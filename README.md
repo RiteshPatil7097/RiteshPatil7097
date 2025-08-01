@@ -26,7 +26,7 @@ Notable projects like Firebase Contact App and Foody Zone reflect my ability to 
 ## 🚀 Live Projects
 
 - 🔗 [Firebase Contact App](https://firebase-contact-app-cjk0.onrender.com)  
-- 🍽️ [Foody Zone](https://foody-zone-ritesh.vercel.app)  
+- 🍽️ [Foody Zone](https://foody-zone-khrt.onrender.com)  
 
 <br>
 
